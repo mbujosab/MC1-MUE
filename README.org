@@ -1,0 +1,7 @@
+#+title: Material para el curso Métodos Cuantitativos I del Máster en Economía de la UCM
+#+author: Marcos Bujosa
+
+Repositorio con el material para el curso
+
+- Apuntes y transparencias
+- Notebooks de Jupyter
